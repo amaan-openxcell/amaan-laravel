@@ -94,3 +94,5 @@ Staring Application;
     
     $ sudo php artisan cms:initialize --seed
     $ php artisan serve
+    
+Open http://localhost:8000 from your browser. To access the admin panel, hit the link http://localhost:8000/admin from your browser. The application comes with default user with email address admin@admin.com and 123456.
