@@ -90,6 +90,7 @@ Restarting Service.
     $ sudo systemctl restart apache2
 
 
-
+Staring Application;
+    
     $ sudo php artisan cms:initialize --seed
     $ php artisan serve
