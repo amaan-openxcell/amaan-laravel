@@ -42,6 +42,7 @@ Installing "composer"
 
 
 Checking "composer" version.
+
     $ composer --version
     $ php -v
 
